@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: mail.Mail
+Class-Path: commons-codec-1.12.jar
+
